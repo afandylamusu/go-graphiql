@@ -1,8 +1,8 @@
 package types
 
 import (
+	"github.com/afandylamusu/go-graphiql/example/logic"
 	"github.com/graphql-go/graphql"
-	"github.com/mnmtanish/go-graphiql/example/logic"
 )
 
 // RootQuery ...

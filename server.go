@@ -9,10 +9,11 @@ var Content = []byte(`
   <style>body {height: 100vh; margin: 0; width: 100%; overflow: hidden;}</style>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/sweetalert/1.1.3/sweetalert.css" />
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/graphiql/0.12.0/graphiql.css" />
-  <script src="//cdn.jsdelivr.net/sweetalert/1.1.3/sweetalert.min.js"></script>
+  <script src="//cdn.jsdelivr.net/es6-promise/4.0.5/es6-promise.auto.min.js"></script>
   <script src="//cdn.jsdelivr.net/fetch/0.9.0/fetch.min.js"></script>
-  <script src="//cdn.jsdelivr.net/react/0.14.7/react.min.js"></script>
-  <script src="//cdn.jsdelivr.net/react/0.14.7/react-dom.min.js"></script>
+  <script src="//cdn.jsdelivr.net/react/15.4.2/react.min.js"></script>
+  <script src="//cdn.jsdelivr.net/react/15.4.2/react-dom.min.js"></script>
+  <script src="//cdn.jsdelivr.net/sweetalert/1.1.3/sweetalert.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/graphiql/0.12.0/graphiql.js"></script>
   <script>
     (function () {
